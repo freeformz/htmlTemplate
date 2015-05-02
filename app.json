@@ -1,0 +1,11 @@
+{
+  "name": "Go + Heroku : html.Template",
+  "description": "Simple html.Template sample app",
+  "repository": "https://github.com/freeformz/htmlTemplate",
+  "website": "",
+  "keywords": ["golang", "simple"],
+  "success_url": "/",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-go.git"
+  }
+}
