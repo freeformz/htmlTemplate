@@ -2,7 +2,7 @@
   "name": "Go + Heroku : html.Template",
   "description": "Simple html.Template sample app",
   "repository": "https://github.com/freeformz/htmlTemplate",
-  "website": "",
+  "website": "https://google.com/",
   "keywords": ["golang", "simple"],
   "success_url": "/",
   "env": {
